@@ -36,61 +36,7 @@ markdown: kramdown
 remote_theme: artemsheludko/monday
 plugins:
   - jekyll-feed
-#baseurl: "/" # the subpath of your site, e.g. /blog
-#url: "cdills.github.io"
 
-<<<<<<< HEAD
-
-# Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Cody Dills"
-resume_title:                   "Software Developer"
-
-# used for the contact button in _layouts/resume.html
-resume_contact_email:           "dillscody@gmail.com"
-
-# the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "704-747-8528"
-resume_contact_address:         "Test"
-
-resume_header_contact_info:     " test • 704-747-8528 • dillscody@gmail.com"
-display_header_contact_info:    "false"
-
-resume_header_intro: "<p>Inventive software developer with 5+ years experience developing effecient solutions for growth-oriented businesses. Improved workplace effeciency of Protect Plus, LLC by over 50%. An energetic team player and methodical thinker.  </p>"
-
-# use "yes" to display the email contact button,
-# "no" to display an "I'm not looking for work" message,
-# or remove the resume_looking_for_work option entirely
-# to leave blank
-resume_looking_for_work:        "yes"
-
-# Decide which sections to use
-# comment out to hide
-resume_section_experience:      true
-resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
-# resume_section_interests:       true
-
-# Resume social links
-# uncomment the options you wish to display, and add your own URL
-resume_social_links:
-  resume_github_url:            "https://github.com/cdills"
-  #resume_twitter_url:           "http://twitter.com/jglovier"
-  #resume_dribbble_url:          "https://dribbble.com/jag"
-  #resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/dillscody"
-  #resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://cdills.github.io"
-  #resume_medium_url:            "https://medium.com/@jglovier"
-resume_print_social_links:      true
-
-# Design settings
-resume_theme: default
-=======
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -102,4 +48,3 @@ resume_theme: default
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
->>>>>>> parent of 447a27e... update to resume theme
