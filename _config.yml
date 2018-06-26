@@ -4,12 +4,14 @@ description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
-sass:
-  sass_dir: _sass
-  style: compressed
+#sass:
+  #sass_dir: _sass
+  #style: compressed
 remote_theme: jglovier/resume-template
-plugins:
-  - jekyll-feed
+#plugins:
+  #- jekyll-feed
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "cdills.github.io"
 
 
 # Resume settings
