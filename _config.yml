@@ -23,9 +23,9 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "cdills.github.io"
 
 #Contact
-Phone: 704-747-8529
-twitter_username: ""
-github_username: cdills
+phone: 704 747 8529
+twitter: ""
+github: cdills
 email: dillscody@gmail.com
 website: github.com/cdills
 linkedin: dillscody
