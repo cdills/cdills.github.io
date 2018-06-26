@@ -19,14 +19,15 @@ title: Cody Dills
 tagline: Software Developer
 description: >- # this means to ignore newlines until "baseurl:"
   Cody Dills - Software Developer  
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "cdills.github.io"
 
 #Contact
-twitter_username: 
+Phone: 704-747-8529
+twitter_username: ""
 github_username: cdills
 email: dillscody@gmail.com
-website: https://github.com/cdills
+website: github.com/cdills
 linkedin: dillscody
 
 
